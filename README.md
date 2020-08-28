@@ -20,8 +20,11 @@ Syntax highlighted code block
 ```
 `pip install -r requierment.txt`
 for more details ask [Mike](https://wwww.facebook.com/pections).
+
 `django-admin startapp yourproject`
+
 `python manage.py migrate`
+
 `python manage.py makemigrate`
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
