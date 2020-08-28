@@ -1,8 +1,14 @@
 
 
 # Mike use Docker for FF Ecommerce Website with Django python
-```markdown
 
+Python 3.8 ,Django2.0
+
+```markdown
+pip install virtualenv
+pip install virtualwrapper
+virtualenv env
+soruce /env/bin/activate
 ```
 `pip install -r requierment.txt`
 
