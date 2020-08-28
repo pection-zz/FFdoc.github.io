@@ -18,7 +18,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-'import python'
+`pip install -r requierment.txt`
+for more details ask [Mike](https://wwww.facebook.com/pection).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
