@@ -5,6 +5,7 @@
 Python 3.8 ,Django2.0
 
 ```markdown
+pip install django
 pip install virtualenv
 pip install virtualwrapper
 virtualenv env
